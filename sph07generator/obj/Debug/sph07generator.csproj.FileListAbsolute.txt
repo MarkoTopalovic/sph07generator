@@ -1,0 +1,24 @@
+C:\Users\User\Documents\Visual Studio 2008\Projects\sph07generator\sph07generator\bin\Debug\sph07generator.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\sph07generator\sph07generator\bin\Debug\sph07generator.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\sph07generator\sph07generator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\sph07generator\sph07generator\obj\Debug\sph07generator.Form1.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\sph07generator\sph07generator\obj\Debug\sph07generator.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\sph07generator\sph07generator\obj\Debug\sph07generator.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\sph07generator\sph07generator\obj\Debug\sph07generator.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\sph07generator\sph07generator\obj\Debug\sph07generator.pdb
+F:\topalovic\program solutions\sph07generator\sph07generator\bin\Debug\sph07generator.exe
+F:\topalovic\program solutions\sph07generator\sph07generator\bin\Debug\sph07generator.pdb
+F:\topalovic\program solutions\sph07generator\sph07generator\obj\Debug\ResolveAssemblyReference.cache
+F:\topalovic\program solutions\sph07generator\sph07generator\obj\Debug\sph07generator.Form1.resources
+F:\topalovic\program solutions\sph07generator\sph07generator\obj\Debug\sph07generator.Properties.Resources.resources
+F:\topalovic\program solutions\sph07generator\sph07generator\obj\Debug\sph07generator.csproj.GenerateResource.Cache
+F:\topalovic\program solutions\sph07generator\sph07generator\obj\Debug\sph07generator.exe
+F:\topalovic\program solutions\sph07generator\sph07generator\obj\Debug\sph07generator.pdb
+E:\sph07generator\sph07generator\obj\Debug\sph07generator.exe
+E:\sph07generator\sph07generator\obj\Debug\sph07generator.pdb
+E:\sph07generator\sph07generator\bin\Debug\sph07generator.exe
+E:\sph07generator\sph07generator\bin\Debug\sph07generator.pdb
+E:\sph07generator\sph07generator\obj\Debug\sph07generator.csprojResolveAssemblyReference.cache
+E:\sph07generator\sph07generator\obj\Debug\sph07generator.Form1.resources
+E:\sph07generator\sph07generator\obj\Debug\sph07generator.Properties.Resources.resources
+E:\sph07generator\sph07generator\obj\Debug\sph07generator.csproj.GenerateResource.Cache
