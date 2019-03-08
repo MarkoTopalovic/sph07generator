@@ -9,6 +9,7 @@ namespace sph07generator
         /// <summary>
         /// The main entry point for the application.
         /// 
+        /// 
         /// </summary>
         [STAThread]
         static void Main()
