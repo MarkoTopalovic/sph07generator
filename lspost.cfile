@@ -1,6 +1,7 @@
-$# LS-PrePost command file created by LS-PrePost 3.2 - 17Mar2012(08:47) -64bit-Window
-$# Created on Feb-28-2013 (13:25:04)
-open keyword "F:\topalovic\program solutions\sph07generator\newhope3.k"
-save keywordoutversion 4
-open keyword "F:\topalovic\SPH\ls dyna novo\jednostruko_slsfac0.k"
-save keywordoutversion 4
+$# LS-PrePost command file created by LS-PrePost(R) V4.5.21 - 31May2018 -64bit-Window
+$# Created on Aug-24-2021 (13:05:26)
+openc keyword "E:\sph07generator\newhope3.k"
+Message 1
+save keywordversion 2
+save keywordoutversion 9
+Message 0

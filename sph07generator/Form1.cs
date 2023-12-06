@@ -124,29 +124,24 @@ namespace sph07generator
             
             test = tr.ReadLine();
             test = tr.ReadLine();
-
-            do //find termination time
+            
+            do
             {
                 test = tr.ReadLine();
                 if (test != null && test.Contains("*CONTROL_TERMINATION"))
                 {
                     terminationTime = true;
                 }
-            } while (test != null && terminationTime == false);
-            test = tr.ReadLine(); // $#  endtim    endcyc     dtmin    endeng    endmas
-            test = tr.ReadLine();
-            string termination = test.Substring(0, 10);
-            double terminationT = Convert.ToDouble(termination);
+                if (terminationTime == true)
+                {
+                    test = tr.ReadLine(); // $#  endtim    endcyc     dtmin    endeng    endmas
+                    test = tr.ReadLine();
+                    string termination = test.Substring(0, 10);
+                    double terminationT = Convert.ToDouble(termination);
 
-            textBoxTerminationTime.Text = termination;
-
-
-
-
-
-            do
-            {
-                test = tr.ReadLine();
+                    textBoxTerminationTime.Text = termination;
+                    terminationTime = false;
+                }
                 if (test != null && test.Contains("*ELEMENT_SPH"))
                 {
                     sphParticles = true;
